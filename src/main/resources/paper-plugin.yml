@@ -1,0 +1,8 @@
+name: MistralWrapper
+version: '1.0-SNAPSHOT'
+main: sh.ashral.mistralWrapper.MistralWrapper
+api-version: '1.21'
+prefix: OpenAi Chat Provider
+authors: [ Lars ]
+description: Basic Rest Api for PaperMC Servers
+load: POSTWORLD
